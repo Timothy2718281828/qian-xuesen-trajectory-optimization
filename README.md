@@ -1,4 +1,4 @@
-# Final Project: Qian Xuesen Extended Trajectory Optimization
+# Qian Xuesen Extended Trajectory Optimization
 
 ## Project Overview
 
@@ -44,7 +44,7 @@ make pdf
 ## Project Structure
 
 ```
-FinalProject/
+qian-xuesen-trajectory-optimization/
 ├── .gitignore
 ├── Makefile                  # make all / make pdf / make clean
 ├── README.md                 # This file

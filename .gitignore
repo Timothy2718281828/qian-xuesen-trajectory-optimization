@@ -41,11 +41,11 @@ venv/
 .DS_Store
 Thumbs.db
 
-# 课程资料（不提交）
+# External reference PDFs
 星际航行概论*.pdf
 PROJECT_SPEC.pdf
 PROJECT_SPEC.txt
 
-# 允许的例外
+# Allowlist
 !data/horizons_cache_2026.json
 !figures/trajectory.mp4
