@@ -48,9 +48,7 @@ qian-xuesen-trajectory-optimization/
 ├── .gitignore
 ├── Makefile                  # make all / make pdf / make clean
 ├── README.md                 # This file
-├── AI-Agent.md               # AI tool usage log
 ├── report.tex                # Final report (XeLaTeX)
-├── report.pdf                # Compiled report
 ├── src/
 │   ├── physical_constants.py # Unified constants & constraints
 │   ├── patched_conic.py      # M1: Patched conic analytical solution
