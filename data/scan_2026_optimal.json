@@ -1,0 +1,13 @@
+{
+  "t0_day": 107,
+  "rm_optimal": 2245.118383475919,
+  "rp_optimal": 59839148.28,
+  "rp_optimal_AU": 0.4,
+  "delta_v_launch": 12.837254214257904,
+  "delta_v_reentry": 13.3393894030172,
+  "delta_v_total": 26.176643617275104,
+  "savings": 0.0293211591848781,
+  "savings_pct": 0.11188734868184055,
+  "delta_v_direct": 26.205964776459982,
+  "side": "trailing"
+}
