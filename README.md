@@ -74,20 +74,6 @@ qian-xuesen-trajectory-optimization/
     └── sensitivity_heatmap.png
 ```
 
-## Module Status
-
-| Module | Description | Status | Author |
-|---|---|---|---|
-| M1 | Patched Conic Analytical | ✅ | DeepSeek |
-| M2 | N-body Integrator | ✅ | DeepSeek |
-| M3 | Horizons Validation | ✅ | DeepSeek |
-| M4 | Lunar Gravity Assist | ✅ | Claude Opus |
-| M5 | Single Trajectory Solver | ✅ | Claude Opus |
-| M6 | Launch Window Optimization | ✅ | DeepSeek (framework) + Claude Opus (analysis) |
-| M7 | Sensitivity Analysis | ✅ | Claude Opus |
-| M8 | Visualization | ✅ | DeepSeek |
-| Report | LaTeX | ✅ | Claude Opus |
-
 ## Key Results
 
 ### Optimal Trajectory (2026)
